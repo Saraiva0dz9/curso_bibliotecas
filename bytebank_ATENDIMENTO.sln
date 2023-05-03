@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bytebank_ATENDIMENTO", "byt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bytebank_Models", "bytebank_Models\bytebank_Models.csproj", "{DCD368CF-5A8B-4F77-8CBC-ED2B23B9A812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorChavePix", "GeradorChavePix\GeradorChavePix.csproj", "{C81F459D-743F-4158-AFAC-2A2DB2AC0D16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenaratorChavePix", "GeradorChavePix\GenaratorChavePix.csproj", "{C81F459D-743F-4158-AFAC-2A2DB2AC0D16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
